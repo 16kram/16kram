@@ -1,8 +1,4 @@
-### ¡Bienvenido! 👋
-🚀 Aficionado a la Programación, Electricidad y Electrónica
-
-Soy un aficionado a la programación y la electrónica, con experiencia en varios lenguajes y tecnologías. Me gusta aprender y experimentar con proyectos personales, tanto de software como de hardware.
-                                                                                                                                                                                                                                              
+### ¡Bienvenido! 👋                                                                                                                                                                                                                                              
 <!--
 **16kram/16kram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
